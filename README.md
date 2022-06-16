@@ -1,4 +1,4 @@
-## Hi 👋  I'm Sara Bermudez <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+## Hi 👋  I'm Sara Bermudez <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
  
  ## About me 
  
@@ -6,13 +6,12 @@
 
 :heart: Programming | :black_heart: Music | :blue_heart: Movies
 
-- 💻 I am a front-end Developer of web
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- 💻 I am a front-end Developer of web.
+- :earth_americas: I'm from Medellin - Colombia.
+- :video_game: I like to play video games.
+- :gem: I love to customize everything lol.
 - 🔭 I’m currently working on a educational platform.
-- 🌱 I’m currently learning TypeScript
-- ⚡️ Fun-Fact:  🙃
+- 🌱 I’m currently learning TypeScript.
 - 🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
 
 ## Tech & Tools Preference
@@ -42,11 +41,9 @@
 </p>
 </details>
 
-<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" align="right" />
-
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/0by7rf8te60ctxvaa7lx82gxq)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0by7rf8te60ctxvaa7lx82gxq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0by7rf8te60ctxvaa7lx82gxq&redirect=true)
 
 #### Thanks for visiting :heart:
 
