@@ -36,15 +36,17 @@
 <br>
  
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SaraBermudez4&show_icons=true&count_private=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SaraBermudez4&theme=dracula&show_icons=true&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBermudez4&theme=dracula&line_height=25&langs_count=3">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SaraBermudez4&theme=dracula&locale=es&date_format=[Y.]n.j">
 </p>
 </details>
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0by7rf8te60ctxvaa7lx82gxq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0by7rf8te60ctxvaa7lx82gxq&redirect=true)
 
 #### Thanks for visiting :heart:
 
 ![](https://komarev.com/ghpvc/?username=SaraBermudez4&color=79b8ff)
+[![Years Badge](https://badges.pufler.dev/years/SaraBermudez4)](https://badges.pufler.dev)
