@@ -49,4 +49,3 @@
 #### Thanks for visiting :heart:
 
 ![](https://komarev.com/ghpvc/?username=SaraBermudez4&color=79b8ff)
-[![Years Badge](https://badges.pufler.dev/years/SaraBermudez4)](https://badges.pufler.dev)
