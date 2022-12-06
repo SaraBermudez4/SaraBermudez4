@@ -10,8 +10,8 @@
 - :earth_americas: I'm from Medellin - Colombia.
 - :video_game: I like to play video games.
 - :gem: I love to customize everything lol.
-- 🔭 I’m currently working on a educational platform.
-- 🌱 I’m currently learning TypeScript.
+- 🔭 I’m currently working on a tour platform.
+- 🌱 I’m currently learning TypeScript, Next.js and AWS.
 - 🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
 
 ## Tech & Tools Preference
